@@ -33,7 +33,7 @@ export default class LoginScreen extends Component {
       />
       <View style ={styles.quadroLogin}>
         <View style={styles.topoPainel}>
-            <Text style={styles.textTopoPainel}>Bom Dia!</Text>
+            <Text style={styles.textTopoPainel}>Bom Dia usuario !</Text>
         </View>
         <Text style={styles.textoTela}>Entre com o seu Login</Text>
 
